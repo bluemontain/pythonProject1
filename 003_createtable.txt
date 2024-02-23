@@ -1,0 +1,7 @@
+#其实不用自己手动创建加参数即可if_exists='append'
+create table tuling(
+    id INT(12),
+    name varchar(25),
+    cx55 int(12),
+    dcu  int(12)
+);
